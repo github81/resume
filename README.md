@@ -7,10 +7,10 @@
 - CFA Institute, Passed CFA Level II
 
 # Skills
-Front office Trading Platforms: Misys Summit, Calypso, Principia Structured Finance Platform, Bloomberg Terminal.
-Financial Instruments: Interest Rate Swaps, Caps and Floors, Options, Exotic Derivatives, Forward Rate Agreements, Equity and Currency Futures, Bonds and other Fixed Income product types.
-Project Management Methodologies: Agile and Waterfall.
-Technical: Java, C++, Python, SQL, JavaScript, Perl, .NET, AWS, HDFS, Apache Spark, Kafka, Cassandra, Redis
+- Front office Trading Platforms: Misys Summit, Calypso, Principia Structured Finance Platform, Bloomberg Terminal.
+- Financial Instruments: Interest Rate Swaps, Caps and Floors, Options, Exotic Derivatives, Forward Rate Agreements, Equity and Currency Futures, Bonds and other Fixed Income product types.
+- Project Management Methodologies: Agile and Waterfall.
+- Technical: Java, C++, Python, SQL, JavaScript, Perl, .NET, AWS, HDFS, Apache Spark, Kafka, Cassandra, Redis
 
 # Profile Summary
 12 years of experience working within financial institutions; executed projects from inception to post-implementation using Agile with daily scrum methodology; channeled requirements, planned releases and conducted pre-sales proof of concepts; helped clients achieve their goals of centralizing back office functions; solid understanding of working with equities, fixed income, derivatives and risk market data from multiple data vendors; worked closely with business users to gather requirements, create estimates and statements of work; created business requirement documents, functional specifications and technical specifications; developed standalone applications in C++, C#, Java; also have substantial experience in Python, Perl, VBA and SQL.
