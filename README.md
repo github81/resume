@@ -2,10 +2,9 @@
 # Raghu Maan, Front office Analyst, Data Engineer
 
 # Education
-University Of North Dakota Grand Forks, ND					2005 
-Master of Science – Major: Computer Science
-CFA Institute									Present
-Passed Level II
+M.S., Computer Science, University Of North Dakota, Grand Forks, ND 08/2005
+B.S., Computer Applications and Information Systems, Osmania University, India 05/2002
+CFA Institute									Present Passed Level II
 
 # Skills
 Front office Trading Platforms: Misys Summit, Calypso, Principia Structured Finance Platform, Bloomberg Terminal.
